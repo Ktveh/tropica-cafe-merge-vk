@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527589457266",
+    "project_id": "cocktail-226fb",
+    "storage_bucket": "cocktail-226fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527589457266:android:72d4ad8ebc74369a4f31eb",
+        "android_client_info": {
+          "package_name": "ru.Agava.Cocktail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527589457266-nga7r7qt59s88pitt17vcd5shc5fdbig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsr275JxvQWBuq15Pw1xSnKPUxHzhZm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527589457266-nga7r7qt59s88pitt17vcd5shc5fdbig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
